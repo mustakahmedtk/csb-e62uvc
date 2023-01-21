@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://mustakahmedtk.github.io/csb-e62uvc/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://mustakahmedtk.github.io/csb-e62uvc/static/js/main.f66827da.chunk.js",
+    "main.js.map": "https://mustakahmedtk.github.io/csb-e62uvc/static/js/main.f66827da.chunk.js.map",
+    "runtime-main.js": "https://mustakahmedtk.github.io/csb-e62uvc/static/js/runtime-main.73fecb3c.js",
+    "runtime-main.js.map": "https://mustakahmedtk.github.io/csb-e62uvc/static/js/runtime-main.73fecb3c.js.map",
+    "static/js/2.af334238.chunk.js": "https://mustakahmedtk.github.io/csb-e62uvc/static/js/2.af334238.chunk.js",
+    "static/js/2.af334238.chunk.js.map": "https://mustakahmedtk.github.io/csb-e62uvc/static/js/2.af334238.chunk.js.map",
+    "index.html": "https://mustakahmedtk.github.io/csb-e62uvc/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://mustakahmedtk.github.io/csb-e62uvc/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.af334238.chunk.js.LICENSE.txt": "https://mustakahmedtk.github.io/csb-e62uvc/static/js/2.af334238.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73fecb3c.js",
+    "static/js/2.af334238.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.f66827da.chunk.js"
+  ]
+}
